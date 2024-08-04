@@ -4,6 +4,6 @@ A simple TCP client implementation for lichat
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/lichat-tcp-client.git |
-| commit  | ed22372                                                |
+| commit  | 5343d37                                                |
 | systems | lichat-tcp-client                                      |
 |---------+--------------------------------------------------------|
